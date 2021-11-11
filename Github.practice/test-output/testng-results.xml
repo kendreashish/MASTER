@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2021-11-11T12:43:42 IST" name="Default suite" finished-at="2021-11-11T12:43:42 IST" duration-ms="53">
+  <suite started-at="2021-11-11T12:51:44 IST" name="Default suite" finished-at="2021-11-11T12:51:44 IST" duration-ms="49">
     <groups>
     </groups>
-    <test started-at="2021-11-11T12:43:42 IST" name="Default test" finished-at="2021-11-11T12:43:42 IST" duration-ms="53">
-      <class name="gitPractice.Demo2">
-        <test-method signature="demo2()[pri:0, instance:gitPractice.Demo2@7219ec67]" started-at="2021-11-11T12:43:42 IST" name="demo2" finished-at="2021-11-11T12:43:42 IST" duration-ms="9" status="PASS">
+    <test started-at="2021-11-11T12:51:44 IST" name="Default test" finished-at="2021-11-11T12:51:44 IST" duration-ms="49">
+      <class name="gitPractice.Demo1">
+        <test-method signature="demo()[pri:0, instance:gitPractice.Demo1@2928854b]" started-at="2021-11-11T12:51:44 IST" name="demo" finished-at="2021-11-11T12:51:44 IST" duration-ms="10" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- demo2 -->
-      </class> <!-- gitPractice.Demo2 -->
+        </test-method> <!-- demo -->
+      </class> <!-- gitPractice.Demo1 -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
